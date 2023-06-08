@@ -1,0 +1,11 @@
+# jupyter cache
+.ipynb_checkpoints/
+
+# catboost cache
+catboost_info/
+
+# large file
+HW22/binary_80015360_10sample.pkl
+
+# pycharm cache
+.idea/
